@@ -25,6 +25,7 @@ Azure Static Web Apps
 #Installation
 
 Clone the repository: git clone https://github.com/aasthak108/MY-FIN.git
+
 Open the project directory: cd personal-finance-tracker
 Acknowledgements
 GitHub Copilot - AI-powered coding assistant that helped in generating code snippets and providing suggestions during development.
@@ -56,7 +57,9 @@ Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request. Make sure to follow the repository's code of conduct.
 
 #License
+
 This project is licensed under the MIT License.
 
 #Contact
+
 For any inquiries or questions, please contact Aastha Kumari.
