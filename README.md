@@ -6,9 +6,13 @@ manage transactions, and view their current balance. It provides a user-friendly
 #Features
 
 Add income and expense transactions
+
 Edit and delete transactions
+
 Display current balance
+
 Generate financial report
+
 Visualisation of expenses and income by chart(bar graph)
 
 #Technologies Used
