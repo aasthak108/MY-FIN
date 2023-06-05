@@ -22,9 +22,9 @@ HTML
 CSS
 Azure Static Web Apps
 
-Uses of github copilot and azure services  refer this link - https://docs.google.com/document/d/1m7BmrSnnmXd_6cwN0tOSzJM6T4JV9Iuu/edit?usp=sharing&ouid=115707941448999295359&rtpof=true&sd=true
+#Uses of github copilot and azure services  refer this link - https://docs.google.com/document/d/1m7BmrSnnmXd_6cwN0tOSzJM6T4JV9Iuu/edit?usp=sharing&ouid=115707941448999295359&rtpof=true&sd=true
 
-Video Representation of website - https://youtu.be/DFWBXRAXcco
+#Video Representation of website - https://youtu.be/DFWBXRAXcco
 
 #Installation
 
