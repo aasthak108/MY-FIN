@@ -1,7 +1,7 @@
 #MyFinance
 
 My finance is a web-based application built with JavaScript, HTML, and CSS that allows users to track their income and expenses, 
-manage transactions, and view their current balance. It provides a user-friendly interface for adding, editing, and deleting transactions, as well as generating a financial report.
+manage transactions, and view their current balance. It provides a user-friendly interface for adding, editing, and deleting transactions, as well as generating a financial report and visualisation with chart.
 
 #Features
 
@@ -9,6 +9,7 @@ Add income and expense transactions
 Edit and delete transactions
 Display current balance
 Generate financial report
+Visualisation of expenses and income by chart(bar graph)
 
 #Technologies Used
 
